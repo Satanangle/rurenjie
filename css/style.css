@@ -173,7 +173,7 @@ div.ani{
         box-shadow: 0 0 5px 0px red;
     }
 }
--o-@keyframes bd{
+@-o-keyframes bd{
     0%{
       box-shadow: 0 0 5px 0px red;
   }
@@ -184,7 +184,7 @@ div.ani{
         box-shadow: 0 0 5px 0px red;
     }
 }
--webkit-@keyframes bd{
+@-webkit-keyframes bd{
     0%{
       box-shadow: 0 0 5px 0px red;
   }
@@ -195,7 +195,7 @@ div.ani{
         box-shadow: 0 0 5px 0px red;
     }
 }
--moz-@keyframes bd{
+@-moz-keyframes bd{
     0%{
       box-shadow: 0 0 5px 0px red;
   }
@@ -238,7 +238,7 @@ div.ani{
         box-shadow:0px 0px 5px 0px red;
     }
 }
--o-@keyframes bdo{
+@-o-keyframes bdo{
     0%{
       box-shadow: 0px 0px 5px 0px red;
   }
@@ -249,7 +249,7 @@ div.ani{
         box-shadow:0px 0px 5px 0px red;
     }
 }
-    -webkit-@keyframes bdo{
+    @-webkit-keyframes bdo{
     0%{
       box-shadow: 0px 0px 5px 0px red;
   }
@@ -260,7 +260,7 @@ div.ani{
         box-shadow:0px 0px 5px 0px red;
     }
 }
-    -moz-@keyframes bdo{
+    @-moz-keyframes bdo{
     0%{
       box-shadow: 0px 0px 5px 0px red;
   }
@@ -300,7 +300,7 @@ div.ani{
     color: green;
     }
 }
--o-@keyframes bs{
+@-o-keyframes bs{
     0%{
     color:#000;
     }
@@ -317,7 +317,7 @@ div.ani{
     color: green;
     }
 }
-    -webkit-@keyframes bs{
+    @-webkit-keyframes bs{
     0%{
     color:#000;
     }
@@ -334,7 +334,7 @@ div.ani{
     color: green;
     }
 }
-    -moz-@keyframes bs{
+    @-moz-keyframes bs{
     0%{
     color:#000;
     }
@@ -375,7 +375,7 @@ div.ani{
     color: green;
     }
 }
--o-@keyframes bss{
+@-o-keyframes bss{
     0%{
     color:#000;
     }
@@ -392,7 +392,7 @@ div.ani{
     color: green;
     }
 }
-    -webkit-@keyframes bss{
+    @-webkit-keyframes bss{
     0%{
     color:#000;
     }
@@ -409,7 +409,7 @@ div.ani{
     color: green;
     }
 }
-    -moz-@keyframes bss{
+    @-moz-keyframes bss{
     0%{
     color:#000;
     }
@@ -458,7 +458,7 @@ div.ani{
     font-size: 12px;
     }
 }
--o-@keyframes xss{
+@-o-keyframes xss{
     0%{
     opacity: 0;
     font-size: 12px;
@@ -473,7 +473,7 @@ div.ani{
     font-size: 12px;
     }
 }
--webkit-@keyframes xss{
+@-webkit-keyframes xss{
     0%{
     opacity: 0;
     font-size: 12px;
@@ -488,7 +488,7 @@ div.ani{
     font-size: 12px;
     }
 }
--moz-@keyframes xss{
+@-moz-keyframes xss{
     0%{
     opacity: 0;
     font-size: 12px;
