@@ -511,6 +511,11 @@ div.ani{
     text-align: center;
     position: absolute;
     top:10%;
+    filter:flipv;
+    -webkit-transform: rotateX(180deg);
+    transform: rotateX(180deg);
+    -moz-transform: skew(0deg, 180deg) scale(-1, 1);
+    -o-transform: skew(0deg, 180deg) scale(-1, 1);
 }
 
 .page3 button{
