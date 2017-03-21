@@ -14,8 +14,6 @@ body {
 .swiper-container {
     width: 100%;
     height: 100%;
-    position: relative;
-    z-index: 5;
 }
 .swiper-slide {
     text-align: center;
@@ -53,13 +51,13 @@ div.ani{
     width: 40px;
     height: 40px;
     border-radius: 40px;
-    background:url('http://as.eqh5.com/h5_view/images/normalmusic.svg') center center/100% 100%;
+    background:url('../images/normalmusic.svg') center center/100% 100%;
     position: fixed;
     top:10px;
     right: 10px;
     z-index: 10;     
 }
-
+/*http://as.eqh5.com/h5_view/images/normalmusic.svg*/
 /*唱片旋转*/
 .muc{
          animation: xz 3s linear infinite;
